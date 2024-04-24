@@ -7,4 +7,4 @@ O diretório contém:
     PDF com backlog do produto e da sprint 1.
     Links para Lean Incepition desenvolvida no Miro.
 
-
+Link para Lean Inception: https://miro.com/app/board/uXjVKZP2mAY=/?share_link_id=364437862496
